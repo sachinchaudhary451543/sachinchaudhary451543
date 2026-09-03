@@ -6,6 +6,7 @@
     <a href="https://github.com/sachinchaudhary451543"><img src="https://img.shields.io/badge/GitHub-sachinchaudhary451543-181717?style=for-the-badge&logo=github" alt="GitHub" /></a>
     <a href="https://www.linkedin.com/in/sachin-kumar-679646218/"><img src="https://img.shields.io/badge/LinkedIn-Sachin%20Kumar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
     <a href="https://codewithsp20079.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-Live%20Website-22C55E?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio" /></a>
+    <a href="https://zynqora.netlify.app/login"><img src="https://img.shields.io/badge/Zynqora-Live%20App-A855F7?style=for-the-badge&logo=netlify&logoColor=white" alt="Zynqora live app" /></a>
   </p>
 
   <p>
@@ -75,9 +76,10 @@ I build practical automation and infrastructure tools that reduce manual work, i
     </td>
     <td width="50%">
       <h3><a href="https://github.com/sachinchaudhary451543/Zynqora.app">🌐 Zynqora.app</a></h3>
-      <p>A TypeScript-based social media platform project focused on modern app structure, frontend workflows, and product-style development.</p>
+      <p><strong>Your People. Your Circle. Your Zynqora.</strong> A TypeScript-based social media platform focused on communities, modern app structure, frontend workflows, and product-style development.</p>
       <p>
         <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+        <a href="https://zynqora.netlify.app/login"><img src="https://img.shields.io/badge/Live%20Demo-zynqora.netlify.app-A855F7?style=flat-square&logo=netlify&logoColor=white" /></a>
         <img src="https://img.shields.io/badge/Web%20App-111827?style=flat-square&logo=vercel&logoColor=white" />
       </p>
     </td>
@@ -139,7 +141,7 @@ I build practical automation and infrastructure tools that reduce manual work, i
 | Project | Stack | Focus |
 | --- | --- | --- |
 | [InfraSentinel](https://github.com/sachinchaudhary451543/InfraSentinel) | Python, Flask, PowerShell | Infrastructure monitoring, telemetry, remote management |
-| [Zynqora.app](https://github.com/sachinchaudhary451543/Zynqora.app) | TypeScript | Social media platform project |
+| [Zynqora.app](https://github.com/sachinchaudhary451543/Zynqora.app) · [Live](https://zynqora.netlify.app/login) | TypeScript | Social platform — Your People. Your Circle. Your Zynqora. |
 | [codewithsp20079](https://github.com/sachinchaudhary451543/codewithsp20079) | Web | Portfolio / developer presence |
 | [python---lybrary](https://github.com/sachinchaudhary451543/python---lybrary) | Jupyter Notebook | Python learning and notebooks |
 | [java-classes-folder](https://github.com/sachinchaudhary451543/java-classes-folder) | Java | Java class practice |
